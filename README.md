@@ -1,2 +1,0 @@
-# testNetifly
-testing purposes
